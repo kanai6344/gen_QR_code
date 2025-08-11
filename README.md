@@ -4,7 +4,7 @@ A lightweight web application that generates QR codes from text or URLs entirely
 
 ## Live Demo
 
-You can view a live version of this tool at [(https://kanai6344.github.io/generate_QR_code/)]
+You can view a live version of this tool at [(https://kanai6344.github.io/gen_QR_code/)]
 
 ## Features
 
