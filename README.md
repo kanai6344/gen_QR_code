@@ -11,7 +11,7 @@ You can view a live version of this tool at [(https://kanai6344.github.io/gen_QR
 - ✨ Instant QR code generation
 - 🌐 Works with URLs and plain text
 - 🔐 No server-side processing (100% client-side)
-- 📱 Responsive design for all devices
+
 
 ## Quick Start
 
